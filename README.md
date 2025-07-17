@@ -1,48 +1,37 @@
 # 💬 Real-Time Chat Application
 
-A real-time chat app using Node.js and Socket.io. Simple and elegant interface to connect and chat live with others.
+This is a real-time chat app built using WebSockets and React.js for the CODTECH Internship Task - 2.
 
-## 📸 Screenshot
-![Chat Screenshot](screenshots/chat.png)
+## 🔧 Tech Stack
 
-## ✨ Features
-- 🔴 Live messaging via WebSockets
-- 🧑‍🤝‍🧑 User join/leave announcements
-- 📱 Responsive chat UI
-- 🖌️ Clean and modern layout
+- Frontend: React.js
+- Backend: Node.js + WebSocket (ws)
+- Real-time communication via WebSocket protocol
 
-## 🛠 Tech Stack
-- Node.js
-- Express.js
-- Socket.io
-- HTML + CSS + JavaScript
+## 🚀 How to Run
 
-## 📂 Project Structure
-```
-📁 chat-app/
-├── public/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── server.js
-└── package.json
-```
-
-## ▶️ How to Run
-1. Install Node.js
-2. Clone the project:
-   ```bash
-   git clone https://github.com/yourusername/chat-app.git
+1. Clone the repository
+2. Run backend:
    ```
-3. Install dependencies:
-   ```bash
+   cd server
    npm install
-   ```
-4. Run the server:
-   ```bash
    node server.js
    ```
-5. Visit `http://localhost:3000`
+3. Run frontend:
+   ```
+   cd client
+   npm install
+   npm start
+   ```
+4. Open `http://localhost:3000` in your browser and start chatting.
 
-## 📃 License
-MIT License
+## ✨ Features
+
+- Real-time message updates
+- Responsive chat UI
+- Message history display
+
+---
+
+Developed by: Your Name  
+Internship: CODTECH Task - 2
