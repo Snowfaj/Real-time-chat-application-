@@ -29,7 +29,6 @@ This is a real-time chat app built using **WebSockets** for bi-directional commu
 ```
 chat-app/
 ├── client/              # React frontend
-│   ├── public/
 │   └── src/
 │       ├── App.js
 │       ├── Chat.js
@@ -140,8 +139,8 @@ const socket = new WebSocket('ws://localhost:3001');
 
 ## 🙌 Developed By
 
-**Snowfa.J**  
----
+  **Snowfa.J**
+
 
 ## 📄 License
 
