@@ -140,17 +140,10 @@ const socket = new WebSocket('ws://localhost:3001');
 
 ## 🙌 Developed By
 
-**Your Name**  
-Intern at **CODTECH IT Solutions Pvt. Ltd**  
-Task - 2 Submission ✅
-
+**Snowfa.J**  
 ---
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE)
 ```
-
----
-
-Let me know if you want this README file included in a ZIP or uploaded to your GitHub repo!
