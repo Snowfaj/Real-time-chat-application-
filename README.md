@@ -122,6 +122,7 @@ const socket = new WebSocket('ws://localhost:3001');
 ## 📸 Output Screenshot
 
 ![Chat App Screenshot]
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d8268f27-d247-4697-ab97-d92fe8ece63a" />
 
 ---
 
